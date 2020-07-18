@@ -1,5 +1,7 @@
 ### Hi there 👋
-## How are you? 🤔
+## I'm a Colombian guy That love learn about technology
+## Student from HolbertonSchool
+## 💬 Ask me everything you want
 
 <!--
 **LilSherlock/LilSherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
